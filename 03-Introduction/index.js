@@ -11,6 +11,9 @@ const instructor = {
   favoriteNumbers: [1, 2, 3, 4],
 };
 
+console.log("/...............");
+// console.log(Object.entries(instructor)[0][0]);
+
 // O(N)
 console.log(Object.keys(instructor));
 console.log(Object.entries(instructor));
@@ -29,4 +32,4 @@ console.log(instructor.hasOwnProperty("Numbers")); //false
  * at the end-o(1) no need for reindexing!
  */
 
-// 03/6 net time!
+// 03/6 next time!
