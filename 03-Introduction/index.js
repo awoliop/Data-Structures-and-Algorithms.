@@ -33,3 +33,13 @@ console.log(instructor.hasOwnProperty("Numbers")); //false
  */
 
 // 03/6 next time!
+
+// Big O of arrya Operations
+/**
+ * push, pop O(1)
+ * shift, unshift, concat, slice, splice O(n)
+ *sort O(nlogn)
+ *forEach, map, filter, reduce ....etc O(n)
+
+ 
+ */
